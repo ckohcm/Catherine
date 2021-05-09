@@ -1,16 +1,14 @@
-# Steam Reviews Analysis
+# Background
 
 You can use the [editor on GitHub](https://github.com/ckohcm/Steam_Reviews_Analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## TL;DR
-
-## Table of Contents
+## Projects
 <details open>
  <summary>Show/Hide</summary>
  <ul>
-  <li> 1. File Descriptions </li>
+  <li> 1. [Steam Reviews Topic Modeling Analysis]( </li>
  <ul>
   <li> nested list 1</li>
   <li> nested list 2</li>
