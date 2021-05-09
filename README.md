@@ -9,7 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Table of Contents
 <details open>
  <summary>Show/Hide</summary>
- <br>
+ <ul>
+  <li> 1. File Descriptions </li>
+ <ul>
+  <li> nested list 1</li>
+  <li> nested list 2</li>
+  </ul>
  1. File Descriptions
  2. Technologies Used
  3. Structure
