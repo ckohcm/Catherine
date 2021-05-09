@@ -10,11 +10,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <details open>
  <summary>Show/Hide</summary>
  <br>
- - File Descriptions
- - Technologies Used
- - Structure
- - Executive Summary
- - Licenses
+ 1. File Descriptions
+ 2. Technologies Used
+ 3. Structure
+ 4. Results
+ 5. Licenses
 </details>
 
 ### Markdown
