@@ -1,5 +1,9 @@
 # Background
 
+Hello!
+
+I'm Catherine Koh, and welcome to my portfolio. My interest mostly lies in the domain in neuropsychology and human behavior, and I'm looking to make a career transition into this field one step at a time. Starting with my portfolio where I dive deeper in the subjects surrounding human behavior. Thanks for reading! :)
+
 You can use the [editor on GitHub](https://github.com/ckohcm/Steam_Reviews_Analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
