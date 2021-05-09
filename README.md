@@ -15,11 +15,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <li> nested list 1</li>
   <li> nested list 2</li>
   </ul>
- 1. File Descriptions
- 2. Technologies Used
- 3. Structure
- 4. Results
- 5. Licenses
+  <li> 2. Technologies Used </li>
+  <li> 3. Structure </li>
+  <li> 4. Results </li>
+  <li> 5. Summary </li>
+ </ul> 
 </details>
 
 ### Markdown
