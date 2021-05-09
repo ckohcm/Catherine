@@ -6,14 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## TL;DR
 
+## Table of Contents
 <details open>
-## <summary>Table of Contents</summary>
+ <summary>Show/Hide</summary>
  <br>
-- File Descriptions
-- Technologies Used
-- Structure
-- Executive Summary
-- Licenses
+ - File Descriptions
+ - Technologies Used
+ - Structure
+ - Executive Summary
+ - Licenses
 </details>
 
 ### Markdown
