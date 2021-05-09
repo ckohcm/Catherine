@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <details open>
  <summary>Show/Hide</summary>
  <ul>
-  <li> 1. [Steam Reviews Topic Modeling Analysis]( </li>
+  <li> 1. [Steam Reviews Topic Modeling Analysis](Steam Reviews Topic Modeling) </li>
  <ul>
   <li> nested list 1</li>
   <li> nested list 2</li>
