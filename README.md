@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## TL;DR
 
 <details open>
-  <summary>## Table of Contents</summary>
+## <summary>Table of Contents</summary>
  <br>
 - File Descriptions
 - Technologies Used
