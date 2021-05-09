@@ -11,8 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Projects
 <details open>
  <summary>Show/Hide</summary>
- <ul>
-  <li>[Steam Reviews Topic Modeling](#https://github.com/ckohcm/Projects/blob/main/Steam%20Reviews%20Topic%20Modeling)</li>
+1. [Steam Reviews Topic Modeling](#https://github.com/ckohcm/Projects/blob/main/Steam%20Reviews%20Topic%20Modeling)</li>
  <ul>
   <li> nested list 1</li>
   <li> nested list 2</li>
