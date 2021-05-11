@@ -5,7 +5,7 @@ We'll then visualize the topics distributions and generate word clouds of the mo
 
 There's this guy who talks about how gamers use other other games as a point of reference when reviewing a game, and this inspired that...
 
-## Projects
+# Table of Contents
 <details open>
  <summary>Show/Hide</summary>
  <ul>
@@ -21,6 +21,28 @@ There's this guy who talks about how gamers use other other games as a point of 
  </ul> 
 </details>
 
+# Data Description
+
+# Technical Overview
+<details open>
+ <summary>Show/Hide</summary>
+ <ul>
+  1. <a href="https://github.com/ckohcm/Projects/blob/main/Steam%20Reviews%20Topic%20Modeling">Steam Reviews Topic Modeling</a>
+ <ul>
+  <li> nested list 1</li>
+  <li> nested list 2</li>
+  </ul>
+  <li> Data Cleaning </li>
+  <li> Exploratory Data Analysis </li>
+  <li> Topic Model </li>
+  <li> Metric Evaluation </li>
+ </ul> 
+</details>
+
+# Requirements
+Note to self: Create a requirements.txt
+
+# Results
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
