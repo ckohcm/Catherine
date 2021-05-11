@@ -1,12 +1,9 @@
-# Background
+# Objective
 
-Hello!
+The purpose of this research is to understand what the players of selected 4X, turn-based strategy games like and dislike about these games (Endless Legend, Battle Tech, Empire of Sin, Age of Wonder: Planet Fall, and Phoenix Point). We'll be running topic modeling on the positive and negative reviews separately to extract topics. In other words, we'll have 2 corpora (positive/negative), and each has 5 documents/game.
+We'll then visualize the topics distributions and generate word clouds of the most the top N keywords for each game. 
 
-I'm Catherine Koh, and welcome to my portfolio. My interest mostly lies in the domain in neuropsychology and human behavior, and I'm looking to make a career transition into this field one step at a time. Starting with my portfolio where I dive deeper in the subjects surrounding human behavior. Thanks for reading! :)
-
-You can use the [editor on GitHub](https://github.com/ckohcm/Steam_Reviews_Analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There's this guy who talks about how gamers use other other games as a point of reference when reviewing a game, and this inspired that...
 
 ## Projects
 <details open>
