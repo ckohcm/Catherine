@@ -7,6 +7,8 @@ We'll then visualize the topics distributions and generate word clouds of the mo
 
 There's this guy who talks about how gamers use other other games as a point of reference when reviewing a game, and this inspired that...
 
+## Research Question
+
 ## Table of Contents
 <details open>
  <summary>Show/Hide</summary>
@@ -24,6 +26,16 @@ There's this guy who talks about how gamers use other other games as a point of 
 </details>
 
 ## Data Description
+The Steam reviews of the six selected games were obtained from the API [steamreviews 0.9.3](https://pypi.org/project/steamreviews/). The reviews were extracted and saved in the [Raw Data](...) folder as this research focuses on the topic analysis. The following lists the number of reviews from each game:
+- Endless Legend : 9,859 (Positive : XX, Negative : XX)
+- Battle Tech : 17,968 (Positive : XX, Negative : XX)
+- Empire of Sin : 1,911 (Positive : XX, Negative : XX)
+- Age of Wonders (Planetfall) : 2,546 (Positive : XX, Negative : XX)
+- Phoenix Point : 1,221 (Positive : XX, Negative : XX)
+- Stellaris : 17,968 (Positive : XX, Negative : XX)
+
+Each review datasets were then split into their respective positive and negative reviews, and were saved with the suffix tag of _pos_ for the positive reviews and _neg_ for the negative reviews. These datasets are saved in the [Intermediate Data](...) folder.
+
 
 ## Technical Overview
 <details open>
