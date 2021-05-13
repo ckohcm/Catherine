@@ -1,11 +1,13 @@
-# Objective
+# Steam Reviews Topic Modeling
+
+## Objective
 
 The purpose of this research is to understand what the players of selected 4X, turn-based strategy games like and dislike about these games (Endless Legend, Battle Tech, Empire of Sin, Age of Wonder: Planet Fall, and Phoenix Point). We'll be running topic modeling on the positive and negative reviews separately to extract topics. In other words, we'll have 2 corpora (positive/negative), and each has 5 documents/game.
 We'll then visualize the topics distributions and generate word clouds of the most the top N keywords for each game. 
 
 There's this guy who talks about how gamers use other other games as a point of reference when reviewing a game, and this inspired that...
 
-# Table of Contents
+## Table of Contents
 <details open>
  <summary>Show/Hide</summary>
  <ul>
@@ -21,9 +23,9 @@ There's this guy who talks about how gamers use other other games as a point of 
  </ul> 
 </details>
 
-# Data Description
+## Data Description
 
-# Technical Overview
+## Technical Overview
 <details open>
  <summary>Show/Hide</summary>
  <ul>
@@ -39,7 +41,7 @@ There's this guy who talks about how gamers use other other games as a point of 
  </ul> 
 </details>
 
-# Requirements
+## Requirements
 Note to self: Create a requirements.txt
 
 # Results
