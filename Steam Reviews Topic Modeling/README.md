@@ -25,16 +25,20 @@ There's this guy who talks about how gamers use other other games as a point of 
  </ul> 
 </details>
 
-## Data Description
-The Steam reviews of the six selected games were obtained from the API [steamreviews 0.9.3](https://pypi.org/project/steamreviews/). The reviews were extracted and saved in the [Raw Data](...) folder as this research focuses on the topic analysis. The following lists the number of reviews from each game:
-- Endless Legend : 9,859 (Positive : XX, Negative : XX)
-- Battle Tech : 17,968 (Positive : XX, Negative : XX)
-- Empire of Sin : 1,911 (Positive : XX, Negative : XX)
-- Age of Wonders (Planetfall) : 2,546 (Positive : XX, Negative : XX)
-- Phoenix Point : 1,221 (Positive : XX, Negative : XX)
-- Stellaris : 17,968 (Positive : XX, Negative : XX)
-
-Each review datasets were then split into their respective positive and negative reviews, and were saved with the suffix tag of _pos_ for the positive reviews and _neg_ for the negative reviews. These datasets are saved in the [Intermediate Data](...) folder.
+## File Description
+- [Data](...): The Steam reviews of the six selected games were obtained from the API [steamreviews 0.9.3](https://pypi.org/project/steamreviews/). The reviews were extracted and saved in the [Raw Data](...) folder as this research focuses on the topic analysis. The following lists the number of reviews from each game:
+ - [Raw Data](...):
+  - Endless Legend : 9,859 (Positive : XX, Negative : XX)
+  - Battle Tech : 17,968 (Positive : XX, Negative : XX)
+  - Empire of Sin : 1,911 (Positive : XX, Negative : XX)
+  - Age of Wonders (Planetfall) : 2,546 (Positive : XX, Negative : XX)
+  - Phoenix Point : 1,221 (Positive : XX, Negative : XX)
+  - Stellaris : 17,968 (Positive : XX, Negative : XX)
+ - [Intermediate Data](..): Each review datasets were then split into their respective positive and negative reviews, and were saved with the suffix tag of _pos_ for the positive reviews and _neg_ for the negative reviews. These datasets are saved in the [Intermediate Data](...) folder.
+ - [Images](...)
+ - [Data_Preprocessing_Notebook.ipynb](...)
+ - [Exploratory_Data_Analysis.ipynb](...)
+ - [LDA_Model_Notbook.ipynb[(...)
 
 
 ## Technical Overview
