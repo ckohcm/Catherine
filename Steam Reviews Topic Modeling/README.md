@@ -26,8 +26,8 @@ There's this guy who talks about how gamers use other other games as a point of 
 </details>
 
 ## File Description
-- [Data](...): The Steam reviews of the six selected games were obtained from the API [steamreviews 0.9.3](https://pypi.org/project/steamreviews/). The reviews were extracted and saved in the [Raw Data](...) folder as this research focuses on the topic analysis. The following lists the number of reviews from each game:
- - [Raw Data](...): Contains the following game reviews downloaded from the API [steamreviews 0.9.3](https://pypi.org/project/steamreviews/) which were saved as JSON files.
+- [Data](...):
+ - [Raw Data](...): Contains the following game reviews downloaded from the API [steamreviews 0.9.3](https://pypi.org/project/steamreviews/) which were saved as JSON files. The following lists the number of positvie and negative reviews of each game:
     - Endless Legend : 9,859 (Positive : XX, Negative : XX)
     - Battle Tech : 17,968 (Positive : XX, Negative : XX)
     - Empire of Sin : 1,911 (Positive : XX, Negative : XX)
